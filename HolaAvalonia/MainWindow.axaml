@@ -5,8 +5,8 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="HolaAvalonia.MainWindow"
         Title="MI PRIMERA APP EN AVALONIA">
-        <StackPanel>
-            <TextBlock>Francisco Rodríguez Olías</TextBlock>
-            <Button>Haz click aquí!</Button>
+        <StackPanel Name="panel" Margin="20">
+            <TextBlock Name="saludo" Text="Hola, soy Francisco Rodríguez Olías" FontSize="24"/>
+            <Button Name="boton" Click="Boton_Click" Content="Púlsame" Margin="0,10,0,0"/>
         </StackPanel>
 </Window>

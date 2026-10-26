@@ -7,11 +7,27 @@ build_property.AvaloniaNameGeneratorFilterByNamespace = *
 build_property.AvaloniaNameGeneratorViewFileNamingStrategy = NamespaceAndClassName
 build_property.AvaloniaNameGeneratorAttachDevTools = true
 build_property.AvaloniaUseCompiledBindingsByDefault = true
+build_property.AvaloniaUseCompiledBindingsByDefault = true
+build_property.AvaloniaMainPackageVersion = 12.1.4
 build_property.AvaloniaMainPackageVersion = 12.1.4
 build_property.AvaloniaPreviewerNetCoreToolPath = /home/alumno/.nuget/packages/avalonia/12.1.4/buildTransitive//../tools/net8.0/designer/Avalonia.Designer.HostApp.dll
 build_property.AvaloniaResourcePaths = /home/alumno/Documentos/DOCUMENTOS_FRO/DInt/HolaAvalonia/HolaAvalonia/App.axaml,/home/alumno/Documentos/DOCUMENTOS_FRO/DInt/HolaAvalonia/HolaAvalonia/MainWindow.axaml
 build_property.TargetFramework = net10.0
+build_property.TargetFramework = net10.0
 build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.RuntimeIdentifier = 
+build_property.AppHostRuntimeIdentifier = linux-x64
+build_property.DefaultAppHostRuntimeIdentifier = linux-x64
+build_property.NETCoreSdkPortableRuntimeIdentifier = linux-x64
+build_property.IsTestProject = 
+build_property.HasAvaloniaDiagnosticsSupport = true
+build_property._AvnB64ProjectAssetsFile = L2hvbWUvYWx1bW5vL0RvY3VtZW50b3MvRE9DVU1FTlRPU19GUk8vREludC9Ib2xhQXZhbG9uaWEvSG9sYUF2YWxvbmlhL29iai9wcm9qZWN0LmFzc2V0cy5qc29u
+build_property._AvnB64ProjectDepsFilePath = 
+build_property._AvnB64ProjectRuntimeConfigFilePath = 
+build_property._AvnB64IntermediateOutputPath = b2JqXERlYnVnL25ldDEwLjAv
+build_property._AvnB64PublishDir = YmluXERlYnVnL25ldDEwLjAvcHVibGlzaC8=
+build_property._AvnB64AvaloniaPreviewerNetCoreToolPath = L2hvbWUvYWx1bW5vLy5udWdldC9wYWNrYWdlcy9hdmFsb25pYS8xMi4xLjQvYnVpbGRUcmFuc2l0aXZlLy8uLi90b29scy9uZXQ4LjAvZGVzaWduZXIvQXZhbG9uaWEuRGVzaWduZXIuSG9zdEFwcC5kbGw=
 build_property.TargetFrameworkVersion = v10.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
